@@ -1,0 +1,6 @@
+{
+  "name": "Khutbah Live",
+  "description": "ওমানে প্রবাসী বাংলাদেশিদের জন্য জুম্মার আরবি খুতবার লাইভ বাংলা অনুবাদ, বড় মনিটর ডিসপ্লে, ব্যাকগ্রাউন্ড রেকর্ডিং ও অডিও প্লেব্যাক অ্যাপ।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

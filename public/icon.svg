@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0B2922"/>
+  <rect x="28" y="28" width="456" height="456" rx="90" stroke="#D4AF37" stroke-opacity="0.28" stroke-width="4"/>
+  <!-- Mihrab Arch -->
+  <path d="M136 392V232C136 164 196 112 256 84C316 112 376 164 376 232V392" stroke="#D4AF37" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 392H400" stroke="#D4AF37" stroke-width="18" stroke-linecap="round"/>
+  <!-- Acoustic / Voice Waveform inside Arch -->
+  <rect x="196" y="246" width="20" height="72" rx="10" fill="#F5F0E6"/>
+  <rect x="246" y="198" width="20" height="120" rx="10" fill="#D4AF37"/>
+  <rect x="296" y="232" width="20" height="86" rx="10" fill="#F5F0E6"/>
+</svg>
